@@ -48,12 +48,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
     </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=iamcelott" alt="Trophy"/>
-    </td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" /></td> 
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" />
-</p>
