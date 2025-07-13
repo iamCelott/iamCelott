@@ -53,15 +53,3 @@
 </table>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamcelott&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-<p
-  <img src="https://github.com/iamcelott/iamcelott/blob/main/assets/github-achievements.svg" alt="GitHub Achievements" />
-</p>
-
-<p
-<img src="https://github.com/iamcelott/iamcelott/blob/main/github-metrics.svg" alt="Metrics" />
-</p>
-
-<p
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamcelott&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-</p>
