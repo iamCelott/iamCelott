@@ -40,9 +40,7 @@
 
 <br>
 
-<h3 align="center">🔥 GitHub Stats</h3>
-
-<div align="center">
+<div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
