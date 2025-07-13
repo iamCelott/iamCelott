@@ -40,8 +40,16 @@
 
 <br>
 
+<h3 align="center">🔥 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="iamcelott" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="iamcelott" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="iamcelott" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" />
+
+</div>
+
