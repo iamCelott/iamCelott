@@ -41,13 +41,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats"/>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" />
     </td> 
   </tr>
 </table>
