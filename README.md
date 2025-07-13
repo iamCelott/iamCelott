@@ -4,10 +4,10 @@
 ###
 
 <div align="center">
-  <p align="center">
+  <p>
     <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
   </p>
-  ![Visitor Count](https://komarev.com/ghpvc/?username=iamcelott&color=orange&style=flat-square)
+  <p> <img src="https://komarev.com/ghpvc/?username=iamcelott&label=Profile%20views&color=0e75b6&style=flat" alt="iamcelott" /> </p>
 </div>
 
 ###
