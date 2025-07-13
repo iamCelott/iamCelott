@@ -51,4 +51,17 @@
     </td> 
   </tr>
 </table>
-<img src="https://github.com/iamcelott/iamcelott/blob/main/assets/github-achievements.svg" alt="GitHub Achievements" />
+
+[![Dharma's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamcelott&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p
+  <img src="https://github.com/iamcelott/iamcelott/blob/main/assets/github-achievements.svg" alt="GitHub Achievements" />
+</p>
+
+<p
+<img src="https://github.com/iamcelott/iamcelott/blob/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+<p
+[![Dharma's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamcelott&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
