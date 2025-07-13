@@ -40,11 +40,20 @@
 
 <br>
 
-<div align="left">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=iamcelott" alt="Trophy"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" height="165" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" />
+</p>
