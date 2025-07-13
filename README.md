@@ -51,3 +51,4 @@
     </td> 
   </tr>
 </table>
+<img src="https://github.com/iamcelott/iamcelott/blob/main/assets/github-achievements.svg" alt="GitHub Achievements" />
