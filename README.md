@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharma Chandra Viriya</h1>
-<h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend & Backend Engineer from Indonesia</h3>
 
 ###
 
