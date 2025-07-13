@@ -11,11 +11,9 @@
 
 ###
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamcelott" alt="iamcelott" /></a> </p>
-  </a>
-</p>
+<div align="center">
+    <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamcelott" alt="iamcelott" /></a> </p>
+</div>
 
 ###
 
@@ -43,11 +41,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamcelott&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" />
     </td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcelott&" alt="GitHub Streak" /></td> 
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=iamcelott&show_icons=true&locale=en" alt="GitHub Stats"/>
+    </td> 
   </tr>
 </table>
