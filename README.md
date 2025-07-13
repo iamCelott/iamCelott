@@ -3,9 +3,12 @@
 
 ###
 
-<p align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</p>
+<div align="center">
+  <p align="center">
+    <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  </p>
+  ![Visitor Count](https://komarev.com/ghpvc/?username=iamcelott&color=orange&style=flat-square)
+</div>
 
 ###
 
