@@ -6,7 +6,6 @@
 <div align="center">
   <p>
     <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-    <img src="https://komarev.com/ghpvc/?username=iamcelott&label=Profile%20views&color=0e75b6&style=flat" alt="iamcelott" />
   </p>
 </div>
 
