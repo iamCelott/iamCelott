@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
 
 ###
-
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</p>
 
 ###
 
