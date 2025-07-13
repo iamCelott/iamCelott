@@ -4,11 +4,10 @@
 ###
 <p align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamcelott&label=Profile%20views&color=0e75b6&style=flat" alt="iamcelott" /> </p>
 </p>
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamcelott&label=Profile%20views&color=0e75b6&style=flat" alt="iamcelott" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamcelott" alt="iamcelott" /></a> </p>
 
